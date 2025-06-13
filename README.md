@@ -1,4 +1,6 @@
 <!-- Header / Hero Section -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3cTY3MDhhOXRnNmV1aXBwZnJkdThmenNhN3JnOXI2eWxleG1qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif" alt="Luffy Gear 5 banner" width="100%"/>
+
 <h1 align="center">Hello! I'm Estanislao Tello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <h4 align="center">...aka Lao</h4>
 <h3 align="center">A passionate Software Developer from Mendoza, Argentina</h3>
